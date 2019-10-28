@@ -1,0 +1,17 @@
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.deps.json
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.runtimeconfig.json
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.runtimeconfig.dev.json
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.dll
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.Tests.pdb
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.dll
+C:\work\CsharpIdiom\ch3\Service.Tests\bin\Debug\netcoreapp2.1\Service.pdb
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csprojAssemblyReference.cache
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csproj.CoreCompileInputs.cache
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.AssemblyInfoInputs.cache
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.AssemblyInfo.cs
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.csproj.CopyComplete
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.dll
+C:\work\CsharpIdiom\ch3\Service.Tests\obj\Debug\netcoreapp2.1\Service.Tests.pdb

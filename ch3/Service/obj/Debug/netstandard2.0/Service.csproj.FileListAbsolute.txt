@@ -1,0 +1,9 @@
+C:\work\CsharpIdiom\ch3\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\work\CsharpIdiom\ch3\Service\bin\Debug\netstandard2.0\Service.dll
+C:\work\CsharpIdiom\ch3\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\work\CsharpIdiom\ch3\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\work\CsharpIdiom\ch3\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\work\CsharpIdiom\ch3\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\work\CsharpIdiom\ch3\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\work\CsharpIdiom\ch3\Service\obj\Debug\netstandard2.0\Service.dll
+C:\work\CsharpIdiom\ch3\Service\obj\Debug\netstandard2.0\Service.pdb
