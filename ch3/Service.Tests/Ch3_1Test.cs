@@ -1,5 +1,4 @@
 using Xunit;
-using Service;
 
 namespace Service.Tests
 {
